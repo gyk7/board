@@ -10,8 +10,8 @@
 
 
 ## **어려웠던 점**
-1. springboot 1.X는 parameter를 사용하지 않아도 되는 경우가 많았는데
-   springboot 2.X는 @Pathvariable, @RequestParam 등 parameter을 사용해야함.
+1. **springboot 1.X**는 parameter를 사용하지 않아도 되는 경우가 많았는데
+   **springboot 2.X**는 @Pathvariable, @RequestParam 등 parameter을 사용해야함.
    parameter을 붙이지 않아 에러가 몇 번 남.
 
    => **parameter**을 붙여야 함.

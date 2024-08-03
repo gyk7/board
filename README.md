@@ -14,7 +14,7 @@
    **springboot 2.X**는 @Pathvariable, @RequestParam 등 parameter을 사용해야함.
    parameter을 붙이지 않아 에러가 몇 번 남.
 
-   => **parameter**을 붙여야 함.
+   => **parameter**를 붙여야 함.
 3. BoardController에서 list를 구현할 때
    
    ![image](https://github.com/user-attachments/assets/f18cd705-f0c7-414e-b865-497f09cfa94b)
